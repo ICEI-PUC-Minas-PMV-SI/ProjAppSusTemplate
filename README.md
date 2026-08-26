@@ -2,9 +2,9 @@
 
 `CURSO: Sistemas de Informação`
 
-`DISCIPLINA: Projeto - Projeto de Infraestrutura`
+`DISCIPLINA: Projeto - Projeto de Aplicações para Sustentabilidade`
 
-`Eixo: 5`
+`Eixo: 4`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
